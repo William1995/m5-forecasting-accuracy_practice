@@ -1,0 +1,8 @@
+Requirement
+# environment: python3
+# packages: 
+	1. pandas
+	2. numpy
+	3. gc
+	4. sklearn
+	5. lightgbm
